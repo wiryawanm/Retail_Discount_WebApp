@@ -1,0 +1,1185 @@
+1548578862846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.4aGIjCFR8t36"
+1548578863703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548578863703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548578866021	Marionette	INFO	Listening on port 59650
+1548578866147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548578884189	Marionette	INFO	Stopped listening on port 59650
+1548578886103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.5E38lbHQXrcd"
+1548578886779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548578886779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548578888708	Marionette	INFO	Listening on port 59872
+1548578888762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=321524476.1548578891, line 112: unreachable code after return statement
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1548579009645	Marionette	INFO	Stopped listening on port 59872
+1548579338808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.KgbXnH2gyMwd"
+1548579339773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579339773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579342155	Marionette	INFO	Listening on port 49340
+1548579342232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548579356364	Marionette	INFO	Stopped listening on port 49340
+1548579357994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.T7WdERtX1CT9"
+1548579358769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579358769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579360489	Marionette	INFO	Listening on port 49477
+1548579360550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1502155121.1548579363, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548579411339	Marionette	INFO	Stopped listening on port 49477
+1548579474937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ZNHZ0uGgX3fL"
+1548579475665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579475666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579477500	Marionette	INFO	Listening on port 49601
+1548579477645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548579483727	Marionette	INFO	Stopped listening on port 49601
+1548579485404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.Qoli7Awxy9Mh"
+1548579486038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579486038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579487751	Marionette	INFO	Listening on port 49719
+1548579487818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=789716098.1548579491, line 112: unreachable code after return statement
+1548579549345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.iK3R8jJq3oKa"
+1548579550042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579550042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579552014	Marionette	INFO	Listening on port 49834
+1548579552039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548579562403	Marionette	INFO	Stopped listening on port 49834
+1548579564013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.XAXbx5mrcOM3"
+1548579564687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579564688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579566391	Marionette	INFO	Listening on port 49949
+1548579566502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1512404191.1548579569, line 112: unreachable code after return statement
+1548579575137	Marionette	INFO	Stopped listening on port 49949
+1548579576825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.BZR7zjEKVGdT"
+1548579577648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579577649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579579655	Marionette	INFO	Listening on port 50049
+1548579579714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548579585033	Marionette	INFO	Stopped listening on port 50049
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548579794759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.29QM0iKe3fzd"
+1548579795427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579795427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579797291	Marionette	INFO	Listening on port 50548
+1548579797344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548579808945	Marionette	INFO	Stopped listening on port 50548
+1548579810542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.dgftuEwGu1sN"
+1548579811191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579811192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579812871	Marionette	INFO	Listening on port 50724
+1548579812955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=869964051.1548579817, line 112: unreachable code after return statement
+1548579847383	Marionette	INFO	Stopped listening on port 50724
+1548579849205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.1xZ0euvMlPS0"
+1548579849863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548579849864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548579851588	Marionette	INFO	Listening on port 50973
+1548579851700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548579859396	Marionette	INFO	Stopped listening on port 50973
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548581498117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.vWkrttRo7VMO"
+1548581498938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548581498938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548581501019	Marionette	INFO	Listening on port 57867
+1548581501130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548581511492	Marionette	INFO	Stopped listening on port 57867
+1548581513593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.DsZEPouknDKY"
+1548581514253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548581514253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548581516138	Marionette	INFO	Listening on port 58040
+1548581516190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1965689923.1548581521, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548581555656	Marionette	INFO	Stopped listening on port 58040
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548581557780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.eFituwARVKxS"
+1548581558449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548581558450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548581560396	Marionette	INFO	Listening on port 58330
+1548581560450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548581570494	Marionette	INFO	Stopped listening on port 58330
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548581921214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.XDuIyAGikpAT"
+1548581921878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548581921878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548581923657	Marionette	INFO	Listening on port 59919
+1548581923761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548581935163	Marionette	INFO	Stopped listening on port 59919
+1548581936838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.0Gy1e2LpEEJd"
+1548581937493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548581937493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548581939445	Marionette	INFO	Listening on port 60103
+1548581939493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1314092966.1548581944, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548581973113	Marionette	INFO	Stopped listening on port 60103
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548581975051	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.nA4MwADeAWfW"
+1548581975708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548581975708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548581977705	Marionette	INFO	Listening on port 60360
+1548581977830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548581985162	Marionette	INFO	Stopped listening on port 60360
+1548582083087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.2iJcS0qn8uC4"
+1548582083613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582083613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582085472	Marionette	INFO	Listening on port 60882
+1548582085536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548582096141	Marionette	INFO	Stopped listening on port 60882
+1548582097939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.J4NDMGMoQciG"
+1548582098583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582098583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582100719	Marionette	INFO	Listening on port 61059
+1548582100814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1572731825.1548582106, line 112: unreachable code after return statement
+1548582113399	Marionette	INFO	Stopped listening on port 61059
+1548582115191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.BdwaZbACtRen"
+1548582115829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582115829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582117635	Marionette	INFO	Listening on port 61227
+1548582117670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548582124325	Marionette	INFO	Stopped listening on port 61227
+1548582726152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.gObKEvOUEAw8"
+1548582726845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582726846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582728778	Marionette	INFO	Listening on port 63827
+1548582728842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548582742122	Marionette	INFO	Stopped listening on port 63827
+1548582743822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.WdIpEW3eGZnh"
+1548582744485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582744485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582746264	Marionette	INFO	Listening on port 64014
+1548582746374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1757691849.1548582754, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548582780775	Marionette	INFO	Stopped listening on port 64014
+1548582782790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.TD0RkAFMjGCd"
+1548582783530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582783530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582785519	Marionette	INFO	Listening on port 64289
+1548582785556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548582798497	Marionette	INFO	Stopped listening on port 64289
+1548582844215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.WrQrF8n7rESJ"
+1548582844740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582844740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582846919	Marionette	INFO	Listening on port 64635
+1548582846981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548582857635	Marionette	INFO	Stopped listening on port 64635
+1548582859474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.W9eirWMsHvP4"
+1548582860109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582860109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582862014	Marionette	INFO	Listening on port 64824
+1548582862037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1237493295.1548582867, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548582882744	Marionette	INFO	Stopped listening on port 64824
+1548582885254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.PuJsBVCa1KNv"
+1548582885902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548582885902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548582887696	Marionette	INFO	Listening on port 65024
+1548582887750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548582895934	Marionette	INFO	Stopped listening on port 65024
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1548583121829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.JbqZ9QfdG5gz"
+1548583122483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583122483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583124489	Marionette	INFO	Listening on port 49701
+1548583124611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583135451	Marionette	INFO	Stopped listening on port 49701
+1548583137116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.vtTXQ3gH1RNC"
+1548583137763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583137763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583139616	Marionette	INFO	Listening on port 49873
+1548583139691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1758164310.1548583143, line 112: unreachable code after return statement
+1548583148870	Marionette	INFO	Stopped listening on port 49873
+1548583150573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.jUzjsp8XUL16"
+1548583151234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583151234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583153026	Marionette	INFO	Listening on port 50025
+1548583153137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583159828	Marionette	INFO	Stopped listening on port 50025
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548583247981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.53iW34dLMiLc"
+1548583248628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583248628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583250496	Marionette	INFO	Listening on port 50490
+1548583250556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583259763	Marionette	INFO	Stopped listening on port 50490
+1548583261479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.EVAJGFxKKK2q"
+1548583262129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583262130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583263994	Marionette	INFO	Listening on port 50657
+1548583264047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=390153400.1548583267, line 112: unreachable code after return statement
+1548583292499	Marionette	INFO	Stopped listening on port 50657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1548583294432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.QXjQ4qlkbsnP"
+1548583295169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583295170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583297191	Marionette	INFO	Listening on port 50889
+1548583297233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583303544	Marionette	INFO	Stopped listening on port 50889
+1548583415936	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.swytYbJOLZpk"
+1548583416479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583416479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583418312	Marionette	INFO	Listening on port 51457
+1548583418411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583428818	Marionette	INFO	Stopped listening on port 51457
+1548583430483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.4eVOJrJxrQAh"
+1548583431026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583431026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583432976	Marionette	INFO	Listening on port 51641
+1548583433046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=2097860178.1548583436, line 112: unreachable code after return statement
+1548583446810	Marionette	INFO	Stopped listening on port 51641
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548583448551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.aOfmB4TLkvkO"
+1548583449196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583449196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583451024	Marionette	INFO	Listening on port 51812
+1548583451123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583461136	Marionette	INFO	Stopped listening on port 51812
+1548583499394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.hAW1V3zqyHQc"
+1548583499916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583499916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583501716	Marionette	INFO	Listening on port 52106
+1548583501758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583510455	Marionette	INFO	Stopped listening on port 52106
+1548583512160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.sqpsUIBklCcu"
+1548583512687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583512687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583514513	Marionette	INFO	Listening on port 52267
+1548583514633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1423870430.1548583517, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548583541376	Marionette	INFO	Stopped listening on port 52267
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 3283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 3283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1548583543393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.Fn6QsJfrjdJ8"
+1548583544037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583544037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583545918	Marionette	INFO	Listening on port 52489
+1548583545984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583552404	Marionette	INFO	Stopped listening on port 52489
+1548583604696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.nSCD9FNu0Mui"
+1548583605225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583605225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583607131	Marionette	INFO	Listening on port 52813
+1548583607143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583617138	Marionette	INFO	Stopped listening on port 52813
+1548583618829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.N7xWYmuzZv3h"
+1548583619350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583619350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583621162	Marionette	INFO	Listening on port 52991
+1548583621190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=774278065.1548583626, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548583654527	Marionette	INFO	Stopped listening on port 52991
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548583656543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.xxTW6JA0pYYk"
+1548583657196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583657197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583659030	Marionette	INFO	Listening on port 53231
+1548583659094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583666133	Marionette	INFO	Stopped listening on port 53231
+1548583941651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ftd2u5laoBgG"
+1548583942332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583942332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583944442	Marionette	INFO	Listening on port 54485
+1548583944517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583956323	Marionette	INFO	Stopped listening on port 54485
+1548583958140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.kq1OFO8cQnb3"
+1548583958788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583958788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583960604	Marionette	INFO	Listening on port 54670
+1548583960714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=109608286.1548583965, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548583985122	Marionette	INFO	Stopped listening on port 54670
+1548583987002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.HlTjeyUoEv9v"
+1548583987652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548583987652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548583989417	Marionette	INFO	Listening on port 54882
+1548583989473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548583998851	Marionette	INFO	Stopped listening on port 54882
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548584036699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.sszFo1hzw70E"
+1548584037230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584037230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584039177	Marionette	INFO	Listening on port 55158
+1548584039298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584048212	Marionette	INFO	Stopped listening on port 55158
+1548584050049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.cb1EPD7HXEXj"
+1548584050698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584050699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584052558	Marionette	INFO	Listening on port 55331
+1548584052637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1124353594.1548584058, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548584093143	Marionette	INFO	Stopped listening on port 55331
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548584095370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.QdawsuyxSe4E"
+1548584096081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584096081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584098069	Marionette	INFO	Listening on port 55622
+1548584098195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584106451	Marionette	INFO	Stopped listening on port 55622
+1548584236450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.JhDvzUjeWrIi"
+1548584236995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584236996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584238741	Marionette	INFO	Listening on port 56269
+1548584238834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584249300	Marionette	INFO	Stopped listening on port 56269
+1548584250961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.hM0SVmDmK2Yw"
+1548584251544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584251544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584253451	Marionette	INFO	Listening on port 56431
+1548584253528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=235616632.1548584256, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548584275106	Marionette	INFO	Stopped listening on port 56431
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548584277059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.SAQfB0RILFIN"
+1548584277656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584277657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584279589	Marionette	INFO	Listening on port 56632
+1548584279643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584286632	Marionette	INFO	Stopped listening on port 56632
+1548584346566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.JNeD4vvdDTq3"
+1548584347112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584347112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584349061	Marionette	INFO	Listening on port 56992
+1548584349172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584358461	Marionette	INFO	Stopped listening on port 56992
+1548584360178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.Uu9TNZQ1Lwrk"
+1548584361033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584361034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584363554	Marionette	INFO	Listening on port 57167
+1548584363612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=867102555.1548584365, line 112: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+1548584387165	Marionette	INFO	Stopped listening on port 57167
+1548584389143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ugAMC3hqijPw"
+1548584389734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584389735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584391454	Marionette	INFO	Listening on port 57392
+1548584391544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584399772	Marionette	INFO	Stopped listening on port 57392
+1548584502899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.igff2moWrlLR"
+1548584503531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584503531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584505709	Marionette	INFO	Listening on port 57939
+1548584505778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584517320	Marionette	INFO	Stopped listening on port 57939
+1548584519005	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.O400ko9tT4Ch"
+1548584519597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584519597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584521461	Marionette	INFO	Listening on port 58122
+1548584521470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=950439805.1548584525, line 112: unreachable code after return statement
+1548584552773	Marionette	INFO	Stopped listening on port 58122
+1548584554921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ieFivkiFimh2"
+1548584555578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548584555578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548584558072	Marionette	INFO	Listening on port 58366
+1548584558130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548584576626	Marionette	INFO	Stopped listening on port 58366
+1548585157212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.e1VvJnxCWDf9"
+1548585157973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548585157973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548585160163	Marionette	INFO	Listening on port 60941
+1548585160203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548585169240	Marionette	INFO	Stopped listening on port 60941
+1548585170916	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.uLZk606NhdJ6"
+1548585171504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548585171504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548585173332	Marionette	INFO	Listening on port 61114
+1548585173395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1172116841.1548585177, line 112: unreachable code after return statement
+1548585201839	Marionette	INFO	Stopped listening on port 61114
+1548585203647	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.M6DclGSPe4Dd"
+1548585204253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548585204253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548585206103	Marionette	INFO	Listening on port 61348
+1548585206113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548585213405	Marionette	INFO	Stopped listening on port 61348
+1548585991975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.CRc0MK5C9GyJ"
+1548585992593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548585992593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548585994805	Marionette	INFO	Listening on port 64645
+1548585994855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586006867	Marionette	INFO	Stopped listening on port 64645
+1548586008584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.tbUngAANKzgd"
+1548586009197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586009197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586011111	Marionette	INFO	Listening on port 64828
+1548586011159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=898202272.1548586016, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548586035266	Marionette	INFO	Stopped listening on port 64828
+1548586037097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.xGw1357m1PPi"
+1548586037691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586037692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586039548	Marionette	INFO	Listening on port 65045
+1548586039573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586049038	Marionette	INFO	Stopped listening on port 65045
+1548586124433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.e0JGAQBbMcQ1"
+1548586124966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586124966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586126775	Marionette	INFO	Listening on port 65487
+1548586126834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586135986	Marionette	INFO	Stopped listening on port 65487
+1548586137841	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.7MaPkTIw9JC1"
+1548586138441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586138441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586140186	Marionette	INFO	Listening on port 49273
+1548586140222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=2122562274.1548586144, line 112: unreachable code after return statement
+1548586154456	Marionette	INFO	Stopped listening on port 49273
+1548586156106	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ZsPQ9rVnyE9N"
+1548586156693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586156693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586158602	Marionette	INFO	Listening on port 49440
+1548586158715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586167241	Marionette	INFO	Stopped listening on port 49440
+1548586210707	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.Pu7DlHb0qhLK"
+1548586211247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586211247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586212964	Marionette	INFO	Listening on port 49743
+1548586213063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586221554	Marionette	INFO	Stopped listening on port 49743
+1548586223422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.3AB89I0ZFIrI"
+1548586224009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586224009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586225940	Marionette	INFO	Listening on port 49904
+1548586226014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=2131797894.1548586231, line 112: unreachable code after return statement
+1548586233074	Marionette	INFO	Stopped listening on port 49904
+1548586234753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.3lSuSqFnLC0y"
+1548586235325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586235325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586237101	Marionette	INFO	Listening on port 50044
+1548586237152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586242373	Marionette	INFO	Stopped listening on port 50044
+1548586254107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.xPvUA9zwwpdo"
+1548586254688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586254688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586256520	Marionette	INFO	Listening on port 50190
+1548586256585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586264008	Marionette	INFO	Stopped listening on port 50190
+1548586265774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.T1uPNJCi5Evo"
+1548586266308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586266309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586268144	Marionette	INFO	Listening on port 50357
+1548586268258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1778855792.1548586274, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548586294913	Marionette	INFO	Stopped listening on port 50357
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548586296832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.b2AV6jCJI0aJ"
+1548586297425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548586297425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548586299207	Marionette	INFO	Listening on port 50575
+1548586299312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548586309156	Marionette	INFO	Stopped listening on port 50575
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590043960	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.W0bS40VjHK36"
+1548590044559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590044560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590046514	Marionette	INFO	Listening on port 60117
+1548590046522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590063777	Marionette	INFO	Stopped listening on port 60117
+1548590065435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.l8rgsIDLD8eX"
+1548590066025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590066026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590067816	Marionette	INFO	Listening on port 60237
+1548590067906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1031702345.1548590072, line 112: unreachable code after return statement
+1548590075633	Marionette	INFO	Stopped listening on port 60237
+[Child 4974, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 4974, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 4974, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 4974, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1548590077334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.hLZmF54Tr386"
+1548590077861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590077862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590079706	Marionette	INFO	Listening on port 60333
+1548590079817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590086450	Marionette	INFO	Stopped listening on port 60333
+1548590127918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.BYE7PnflJHT9"
+1548590128470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590128470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590130334	Marionette	INFO	Listening on port 60419
+1548590130388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590146243	Marionette	INFO	Stopped listening on port 60419
+1548590148014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.zTvkCWO99LdJ"
+1548590148607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590148608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590150353	Marionette	INFO	Listening on port 60539
+1548590150414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1003757303.1548590152, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548590188851	Marionette	INFO	Stopped listening on port 60539
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1548590190862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.upqYw9CI2RpZ"
+1548590191455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590191455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590193286	Marionette	INFO	Listening on port 60637
+1548590193342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590201371	Marionette	INFO	Stopped listening on port 60637
+1548590292999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.mIqH03dbmmox"
+1548590293546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590293546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590295408	Marionette	INFO	Listening on port 60733
+1548590295468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590309636	Marionette	INFO	Stopped listening on port 60733
+1548590311319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.1GmpFk1z4k7w"
+1548590311845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590311845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590313572	Marionette	INFO	Listening on port 60852
+1548590313615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1755975763.1548590318, line 112: unreachable code after return statement
+1548590324654	Marionette	INFO	Stopped listening on port 60852
+1548590326405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.I9kgZXnXsNkD"
+1548590326926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590326927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590328725	Marionette	INFO	Listening on port 60947
+1548590328776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590342645	Marionette	INFO	Stopped listening on port 60947
+1548590484527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.Ip5wke0pGGiF"
+1548590485055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590485055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590486778	Marionette	INFO	Listening on port 61031
+1548590486827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590500863	Marionette	INFO	Stopped listening on port 61031
+1548590502513	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.JH0BuO5gsZLH"
+1548590503105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590503105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590504949	Marionette	INFO	Listening on port 61149
+1548590504963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=211571498.1548590508, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548590542906	Marionette	INFO	Stopped listening on port 61149
+1548590544972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.rjuxdRRNBN32"
+1548590545571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590545571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590547407	Marionette	INFO	Listening on port 61250
+1548590547465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590556095	Marionette	INFO	Stopped listening on port 61250
+1548590609229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.JXmoIPO5E8Xw"
+1548590609775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590609775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590611528	Marionette	INFO	Listening on port 61328
+1548590611596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590626696	Marionette	INFO	Stopped listening on port 61328
+1548590628367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.rm7rGaZg0hht"
+1548590628887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590628887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590630700	Marionette	INFO	Listening on port 61444
+1548590630729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=439859535.1548590635, line 112: unreachable code after return statement
+1548590643785	Marionette	INFO	Stopped listening on port 61444
+1548590645433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.fph46C18xv8F"
+1548590645952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590645953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590647650	Marionette	INFO	Listening on port 61535
+1548590647712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590655627	Marionette	INFO	Stopped listening on port 61535
+1548590685953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.W0dg3Cx8kFSO"
+1548590686478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590686478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590688310	Marionette	INFO	Listening on port 61619
+1548590688428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590708108	Marionette	INFO	Stopped listening on port 61619
+1548590709771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ef5GYZfdJZdy"
+1548590710293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590710293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590712107	Marionette	INFO	Listening on port 61735
+1548590712131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=2068083110.1548590716, line 112: unreachable code after return statement
+1548590719734	Marionette	INFO	Stopped listening on port 61735
+1548590721569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.6VKFFkUL2ZGX"
+1548590722097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590722097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590723917	Marionette	INFO	Listening on port 61834
+1548590724033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590734643	Marionette	INFO	Stopped listening on port 61834
+1548590901867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.RoV6nzigWkf1"
+1548590902398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590902398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590904151	Marionette	INFO	Listening on port 61926
+1548590904252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590910652	Marionette	INFO	Stopped listening on port 61926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1548590912291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.2IhWZ1bWsinV"
+1548590912815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590912815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590914550	Marionette	INFO	Listening on port 62023
+1548590914645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=548808978.1548590917, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548590936453	Marionette	INFO	Stopped listening on port 62023
+1548590938310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.FcclebTaZynJ"
+1548590938910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548590938910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548590940650	Marionette	INFO	Listening on port 62118
+1548590940692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548590948356	Marionette	INFO	Stopped listening on port 62118
+1548591660845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.n4HyQjSc8SYI"
+1548591661489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548591661489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548591663574	Marionette	INFO	Listening on port 62273
+1548591663623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548591677798	Marionette	INFO	Stopped listening on port 62273
+1548591679622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.2HzQymF9mNUc"
+1548591680220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548591680220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548591682035	Marionette	INFO	Listening on port 62393
+1548591682117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1495607152.1548591685, line 112: unreachable code after return statement
+1548591692536	Marionette	INFO	Stopped listening on port 62393
+1548591694337	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.2hf6wsU5mGjF"
+1548591694990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548591694990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548591696960	Marionette	INFO	Listening on port 62490
+1548591697002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548591706067	Marionette	INFO	Stopped listening on port 62490
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548591736918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.j5t5gMhjRdfF"
+1548591737473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548591737473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548591739370	Marionette	INFO	Listening on port 62571
+1548591739379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548591753108	Marionette	INFO	Stopped listening on port 62571
+1548591754801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.c94nXi6UhQp0"
+1548591755401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548591755402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548591757221	Marionette	INFO	Listening on port 62690
+1548591757268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=219941954.1548591763, line 112: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548591785234	Marionette	INFO	Stopped listening on port 62690
+1548591787123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.aNjPx2w4Yu9u"
+1548591787748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548591787748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548591789715	Marionette	INFO	Listening on port 62788
+1548591789784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548591798249	Marionette	INFO	Stopped listening on port 62788
+1548596178143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.mjW4zCEIWZej"
+1548596178780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596178780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596181195	Marionette	INFO	Listening on port 63106
+1548596181259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548596197693	Marionette	INFO	Stopped listening on port 63106
+1548596199473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.u9MarDsAdGNz"
+1548596200089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596200089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596202151	Marionette	INFO	Listening on port 63223
+1548596202245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=717985240.1548596204, line 112: unreachable code after return statement
+1548596219055	Marionette	INFO	Stopped listening on port 63223
+1548596220873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.TiGQZfKJrezj"
+1548596221634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596221634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596223769	Marionette	INFO	Listening on port 63318
+1548596223882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548596230882	Marionette	INFO	Stopped listening on port 63318
+1548596406681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.ZZSAEEObm7uE"
+1548596407243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596407244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596409684	Marionette	INFO	Listening on port 63420
+1548596409768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548596424165	Marionette	INFO	Stopped listening on port 63420
+1548596425931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.LgzLDIuSdizu"
+1548596426759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596426759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596429079	Marionette	INFO	Listening on port 63544
+1548596429143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1515637515.1548596434, line 112: unreachable code after return statement
+1548596449553	Marionette	INFO	Stopped listening on port 63544
+1548596451444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.sMsF033260Db"
+1548596452118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596452118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596454139	Marionette	INFO	Listening on port 63655
+1548596454205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548596463275	Marionette	INFO	Stopped listening on port 63655
+1548596521418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.UuQ8V48rLBcf"
+1548596521973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596521974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596524072	Marionette	INFO	Listening on port 63735
+1548596524120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548596539225	Marionette	INFO	Stopped listening on port 63735
+1548596540847	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.LaA9w58t2Zql"
+1548596541565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596541565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596543888	Marionette	INFO	Listening on port 63844
+1548596543926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=52239903.1548596546, line 112: unreachable code after return statement
+1548596582141	Marionette	INFO	Stopped listening on port 63844
+1548596583987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.8NBdYBF3fSOS"
+1548596584652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548596584652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548596586353	Marionette	INFO	Listening on port 63946
+1548596586453	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 1270, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1548596791972	Marionette	INFO	Stopped listening on port 49719
+1548596793661	Marionette	INFO	Stopped listening on port 63946
+1548599643488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.VXjl4OAH6iIL"
+1548599644411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548599644412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548599646768	Marionette	INFO	Listening on port 64120
+1548599646843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548599664966	Marionette	INFO	Stopped listening on port 64120
+1548599666737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.BCbVi0KzOCjd"
+1548599667470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548599667471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548599669639	Marionette	INFO	Listening on port 64245
+1548599669720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1145480594.1548599680, line 112: unreachable code after return statement
+1548599713196	Marionette	INFO	Stopped listening on port 64245
+1548599715308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.sY9B1XLESPS4"
+1548599716217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548599716217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548599718352	Marionette	INFO	Listening on port 64344
+1548599718381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548599728362	Marionette	INFO	Stopped listening on port 64344
+1548599886613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.hxjr8xiW7hkG"
+1548599887210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548599887210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548599889092	Marionette	INFO	Listening on port 64449
+1548599889183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548599902907	Marionette	INFO	Stopped listening on port 64449
+1548599904559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.eTbvVretiB7E"
+1548599905241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548599905241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548599907101	Marionette	INFO	Listening on port 64566
+1548599907298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42401: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 42413: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.0/babel.js, line 60660: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NP4CM4K&cid=1086641488.1548599911, line 112: unreachable code after return statement
+1548599917883	Marionette	INFO	Stopped listening on port 64566
+1548599919638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/twbbjy1n7271dyn3qlkw7mb00000gn/T/rust_mozprofile.F5oqcILLgVuv"
+1548599920180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548599920180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548599921977	Marionette	INFO	Listening on port 64663
+1548599922031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548599932672	Marionette	INFO	Stopped listening on port 64663
